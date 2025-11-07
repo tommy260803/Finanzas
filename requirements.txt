@@ -5,3 +5,4 @@ numpy-financial
 plotly
 fpdf2
 scikit-learn
+google-generativeai
